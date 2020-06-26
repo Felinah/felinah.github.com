@@ -1,0 +1,45 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 14px;
+  margin: 2em;
+  background-color:rgb(200, 235, 209);
+  cursor:url(https://cdn.glitch.com/989b5865-4c57-4828-b26e-d8c1f08398d7%2Fnosecursor.gif?1592902208038), auto;
+  width:60%; 
+  margin:5% 20%;
+  min-width:400px; 
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+
+.row2 {
+  font-weight:bold;
+  text-align:center;
+}
+th {
+width:30px;  
+}
+
+/*
+.smell-therapy-table{
+  width:80%; 
+  border:2;
+  cellspacing:2; 
+  cellpadding:10;
+background-image:url("https://i.pinimg.com/originals/fa/93/30/fa9330eb6ab17434afef0a31a2f90774.jpg");
+}
+*/
+
+.table-heading{
+    background-color:#EEA292;
+}
+.smell-therapy-table{
+  border: 10px solid pink;
+  align: center;
+};
+
